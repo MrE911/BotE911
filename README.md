@@ -16,8 +16,8 @@ soure : by reuz
 > pkg install ffmpeg
 > pkg install nodejs
 > apt update && apt upgrade
-> git clone https://github.com/benisadewa/reuzsc
-> cd reuzsc
+> git clone https://github.com/MrE911/BotE911
+> cd BotE911
 > bash install.sh
 > node index.js
 ```
