@@ -1,8 +1,8 @@
-## REUZSC
+## Bot MRE911
 BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 
 
-
+soure : by reuz
 
 
 
@@ -39,8 +39,8 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 |       ✅       | YT,YTMP3,IG,TWT DOWNLOADER        |
 |       ✅       | WIKIPEDIA                         |
 |       ✅       | ARTI NAMA                         |
-|       ✅       | SHOLAT                            |
-|       ✅       | QURAN                             |
+|       ✅       | SHOLAT  (Bagi Muslim)                          |
+|       ✅       | QURAN  (Bagi Muslim)                           |
 |       ✅       | KAMING SUN                        |
 
 ket : ✅ : aktif
@@ -51,5 +51,5 @@ ket : ✅ : aktif
 ## THANKS TO
 * [`termux-whatsapp-bot`](https://github.com/fdciabdul/termux-whatsapp-bot)
 
-## DONASI
-* Gopay : 081271699856 Reuz
+## DONASI Ya Omm
+* Gopay : 082228274724
