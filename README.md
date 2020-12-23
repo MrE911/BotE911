@@ -2,7 +2,7 @@
 BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 
 
-soure : by reuz
+Subs Eren Yaeger :)
 
 
 
